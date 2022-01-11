@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0728ec2-d002-4166-9ec7-e2c0ad8d68f6" name="Changes" comment="" />
+    <list default="true" id="b0728ec2-d002-4166-9ec7-e2c0ad8d68f6" name="Changes" comment="Dz lesson 1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +12,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -20,6 +22,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="23WOqnD3i7kWJy7ccZpOG7eSUu3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -42,6 +47,7 @@
       <recent name="C:\Users\MeMoPu\IdeaProjects\untitled\Lesson1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MeMoPu\IdeaProjects\untitled\Pz\img" />
       <recent name="C:\Users\MeMoPu\IdeaProjects\untitled\DZ\Img" />
       <recent name="C:\Users\MeMoPu\IdeaProjects\untitled\Lesson1\Img" />
       <recent name="C:\Users\MeMoPu\IdeaProjects\untitled\Lesson1" />
@@ -56,8 +62,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1641846653105</updated>
-      <workItem from="1641846654587" duration="22541000" />
+      <workItem from="1641846654587" duration="27404000" />
     </task>
+    <task id="LOCAL-00001" summary="Dz lesson 1">
+      <created>1641910562531</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1641910562532</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,5 +87,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Dz lesson 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dz lesson 1" />
   </component>
 </project>
