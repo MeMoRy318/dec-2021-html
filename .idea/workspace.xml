@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0728ec2-d002-4166-9ec7-e2c0ad8d68f6" name="Changes" comment="Dz lesson 1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b0728ec2-d002-4166-9ec7-e2c0ad8d68f6" name="Changes" comment="pz1">
+      <change beforePath="$PROJECT_DIR$/DZ/Img/BartSimspon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ/Img/HomerJaySimpson.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ/Img/LisaMarie.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ/Img/MaggieSimpson.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ/Img/MarjorieJacqueline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ/Img/Simpsonfamily.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ/dz.HTML.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ/index.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1641846653105</updated>
-      <workItem from="1641846654587" duration="27404000" />
+      <workItem from="1641846654587" duration="27741000" />
     </task>
     <task id="LOCAL-00001" summary="Dz lesson 1">
       <created>1641910562531</created>
@@ -71,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641910562532</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="pz1">
+      <created>1641920541854</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1641920541854</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +104,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Dz lesson 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dz lesson 1" />
+    <MESSAGE value="pz1" />
+    <option name="LAST_COMMIT_MESSAGE" value="pz1" />
   </component>
 </project>
